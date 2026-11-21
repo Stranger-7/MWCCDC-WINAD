@@ -1,3 +1,4 @@
+#This script was NOT DEVELOPED BY Me it was gifted to me for use during CCDC competitions to enumerat AD users and Groups. 
 Import-Module ActiveDirectory
 
 # ---- CONFIG ----
